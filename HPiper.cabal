@@ -3,7 +3,7 @@
 
 name:                HPiper
 version:             0.1.0.0
--- synopsis:            
+synopsis:	     A small tool to allow Haskell code to be used for command line processing         
 -- description:         
 homepage:            https://github.com/AdamHarries/HPiper
 -- license:             
